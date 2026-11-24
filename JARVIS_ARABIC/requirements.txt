@@ -1,0 +1,12 @@
+PySide6>=6.6
+numpy
+sounddevice
+faster-whisper>=1.0.3
+edge-tts>=6.1.9
+psutil
+mss
+Pillow
+yt-dlp
+pycaw; sys_platform == "win32"
+comtypes; sys_platform == "win32"
+pyttsx3; sys_platform == "win32"
